@@ -1,0 +1,12 @@
+{
+  "seleniumHub": {
+    "port": 4141,
+    "phantom": [
+      5100,
+      5101
+    ],
+    "chrome": [
+      6100
+    ]
+  }
+}

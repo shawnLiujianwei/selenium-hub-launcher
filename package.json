@@ -26,7 +26,11 @@
   },
   "homepage": "https://github.com/shawnLiujianwei/selenium-hub-launcher",
   "dependencies": {
+    "bluebird": "^2.9.25",
     "chromedriver": "^2.15.0",
+    "config": "^1.13.0",
+    "log4js": "^0.6.25",
+    "phantomjs": "^1.9.17",
     "selenium-server-standalone-jar": "^2.45.0"
   }
 }

@@ -3,7 +3,9 @@
  */
 
 var Process = require("child_process");
-
-exports.registerHub = function (port) {
-    
+var path = require("path");
+var SeleniumInstance = new SeleniumHunInstance();
+module.exports = {
+    "startupFile": path.join(__dirname, "./startup.js"),
+    "script": require("./script")
 }

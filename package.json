@@ -24,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/shawnLiujianwei/selenium-hub-launcher/issues"
   },
-  "homepage": "https://github.com/shawnLiujianwei/selenium-hub-launcher"
+  "homepage": "https://github.com/shawnLiujianwei/selenium-hub-launcher",
+  "dependencies": {
+    "chromedriver": "^2.15.0",
+    "selenium-server-standalone-jar": "^2.45.0"
+  }
 }

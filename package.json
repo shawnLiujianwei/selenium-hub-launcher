@@ -1,0 +1,28 @@
+{
+  "name": "selenium-hub-launcher",
+  "version": "1.0.0",
+  "description": "create selenium hub and maintain its node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnLiujianwei/selenium-hub-launcher.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "node",
+    "hub",
+    "node",
+    "chromedriver",
+    "phantomjs"
+  ],
+  "author": "Shawn Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawnLiujianwei/selenium-hub-launcher/issues"
+  },
+  "homepage": "https://github.com/shawnLiujianwei/selenium-hub-launcher"
+}
